@@ -18,6 +18,7 @@ This spam detection system has many real-world applications. It can be integrate
 **OUTPUT** :
 <img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/62894a3a-baac-484c-8515-42c35e14f2d2" />
 
+<img width="1843" height="422" alt="Image" src="https://github.com/user-attachments/assets/aea8fe30-1da5-4482-9616-39e2ef357191" />
 
 
 
