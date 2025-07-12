@@ -22,5 +22,6 @@ This spam detection system has many real-world applications. It can be integrate
 
 <img width="744" height="680" alt="Image" src="https://github.com/user-attachments/assets/8bf67ebf-ce09-4527-be5a-94bc4f03d768" />
 
+[spam.csv](https://github.com/user-attachments/files/21194988/spam.csv)
 
 
