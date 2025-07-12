@@ -15,7 +15,8 @@ After preprocessing, I converted the text into numerical data using TF-IDF (Term
 The model was evaluated using several key metrics such as accuracy, precision, recall, and F1-score, and its performance was visualized using a confusion matrix and classification report. I also created a custom prediction function where new messages can be entered, and the system predicts whether they are spam or not, along with a probability score.
 This spam detection system has many real-world applications. It can be integrated into email services to automatically filter unwanted promotional or fraudulent messages. It can also be used in SMS gateways, customer support platforms, and social media moderation tools to block malicious or irrelevant content.
 
-
+**OUTPUT** :
+<img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/62894a3a-baac-484c-8515-42c35e14f2d2" />
 
 
 
